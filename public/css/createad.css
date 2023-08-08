@@ -1,0 +1,29 @@
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    height: 45px;
+}
+
+.select-field {
+    width: 100%;
+    height: 45px;
+}
+
+.input-group-text {
+    background-color: #f7f7f7;
+}
+
+.card-header {
+    background-color: #f7f7f7;
+    padding: 15px;
+}
+
+.card-body {
+    padding: 30px;
+}
+
+.text-primary {
+    color: #007bff !important;
+}
